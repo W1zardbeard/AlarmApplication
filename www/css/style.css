@@ -1,19 +1,7 @@
-body {
-  font-family: sans-serif; }
+* {
+  text-shadow: none; }
 
-#formCont {
-  margin: 10%; }
-
-#taskLister {
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
-  max-height: 250px; }
-
-#taskLister label {
-  padding: 5%;
-  border-bottom: 1px dotted #cecece; }
-
-.hidden {
-  display: none; }
+#page1 {
+  background-color: #3498db; }
 
 /*# sourceMappingURL=style.css.map */
